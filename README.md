@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm MD Naimul Islam 👋
 
-<!--
-**thenaimulislam/thenaimulislam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Web Developer | Founder of BijoyTrip  
+🌐 Portfolio: https://naimulislam.net  
+🧳 Business: https://bijoytrip.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm a passionate **Full-Stack Web Developer** from Bangladesh 🇧🇩  
+I build modern web applications using **Next.js, React, Node.js, Fastify, MongoDB**.
+
+- 🔭 Currently working on: **BijoyTrip – Tour Package & Booking Platform**
+- 🌱 Currently learning: **Advanced Next.js, Performance Optimization**
+- 💼 Business: **Owner of BijoyTrip**
+- 💬 Ask me about: **Next.js, React, Fastify, MongoDB, APIs**
+- 📫 Reach me: **naimulislam.net**
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** Next.js, React, Tailwind CSS
+- **Backend:** Node.js, Fastify
+- **Database:** MongoDB
+- **Auth:** JWT, Cookies
+- **Cloud:** Cloudinary, Vercel
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+## 📊 GitHub Stats
+
+![Naimul's GitHub Stats](https://YOUR-VERCEL-PROJECT.vercel.app/api?username=thenaimulislam&show_icons=true&theme=algolia&hide_border=true)
+
+![Top Languages](https://YOUR-VERCEL-PROJECT.vercel.app/api/top-langs/?username=thenaimulislam&layout=compact&theme=algolia&hide_border=true)
+
+---
+
+## 🌐 Connect With Me
+
+- 🌍 Website: https://naimulislam.net
+- 🧳 BijoyTrip: https://bijoytrip.com
+- 🐙 GitHub: https://github.com/thenaimulislam
+
+---
+
+⭐ If you like my work, consider giving a star to my projects!
