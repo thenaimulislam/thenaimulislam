@@ -32,10 +32,11 @@ I build modern web applications using **Next.js, React, Node.js, Fastify, MongoD
 
 ## 📊 GitHub Stats
 
-![Naimul's GitHub Stats](https://YOUR-VERCEL-PROJECT.vercel.app/api?username=thenaimulislam&show_icons=true&theme=algolia&hide_border=true)
+## 📊 GitHub Stats
 
-![Top Languages](https://YOUR-VERCEL-PROJECT.vercel.app/api/top-langs/?username=thenaimulislam&layout=compact&theme=algolia&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thenaimulislam&show_icons=true&theme=algolia)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thenaimulislam&layout=compact&theme=algolia)
 ---
 
 ## 🌐 Connect With Me
